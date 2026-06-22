@@ -710,6 +710,7 @@ _基于Web的应用和工具_
 *   PHP Queue：一个管理后端队列的应用 [官网](https://github.com/CoderKungfu/php-queue)
 *   Composer as a Service：作为一个zip文件下载Composer包的工具 [官网](http://composer.borreli.com/)
 *   MailCatcher：一个抓取和查看邮件的web工具 [官网](https://github.com/sj26/mailcatcher)
+*   UnfoldCMS：一个基于 Laravel 12 + React 19 的自托管内容管理系统，支持 REST API（42个接口）、无头模式和 HMAC 签名 Webhook [官网](https://unfoldcms.com) [GitHub](https://github.com/hpakdaman/unfoldcms)
 
 # 资源
 
